@@ -1,0 +1,14 @@
+.navigation {
+    background-color:#AAC1AE;
+    z-index: 1;
+}
+.navigation a{
+    color:#0a0903;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+#mobile-demo {
+    width:250px;
+}
+body {
+    font-family: 'IBM Plex Sans', sans-serif;
+}
